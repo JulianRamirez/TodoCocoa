@@ -22,6 +22,7 @@ Helping you select a MV* architecture - Todo apps using Cocoa MVC, VIPER, Reacti
 
 ## [VIPER](http://www.objc.io/issue-13/viper.html)
 ### Further reading
+- [Architecting iOS Apps with VIPER](http://www.objc.io/issue-13/viper.html)
 - TODO: Presenter pattern
 
 ## [ReactiveViewModel](https://github.com/ReactiveCocoa/ReactiveViewModel/blob/master/README.md)
